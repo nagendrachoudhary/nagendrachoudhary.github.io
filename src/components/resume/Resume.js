@@ -5,13 +5,13 @@ const Resume = () => {
     <section id="resume" className="w-full py-20 border-b-[1px] border-b-black">
     <Title title="my resume" des="RESUME" />
     <Box display={'flex'} justifyContent={'space-evenly'}>
-      <a href='../NagendraChoudhary_resume.pdf' target="_blank">
+      <a href='https://drive.google.com/file/d/11Bxbk0y4deWyVKJHnsw3EIWSzxyTlsgF/view?usp=sharing' target="_blank">
           <span  className="bannerIcon">
             <p>
               Resume
             </p>
           </span></a>
-          <a href="" target="_blank">
+          <a href="public/NagendraChoudhary_resume.pdf" download>
           <span className="bannerIcon">
             <p>
               Download

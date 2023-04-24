@@ -12,7 +12,7 @@ const Navbar = () => {
   return (
     <div id="nav-menu" style={{width:'-webkit-fill-available'}}     className="w-full h-24 sticky top-0 z-50 bg-bodyColor mx-auto flex justify-between items-center font-titleFont border-b-[1px] border-b-gray-600">
       <div>
-        <Avatar w={'50px'} h={'50px'} bg={'ActiveBorder'} borderRadius={'15px'} src={logo}></Avatar>
+        <Avatar w={'50px'} h={'50px'} bg={'ActiveBorder'} borderRadius={'50px'} src={logo}></Avatar>
         {/* <img src={logo} alt="logo" style={{width:'100px',height:'100px'}} /> */}
       </div>
       <div>
