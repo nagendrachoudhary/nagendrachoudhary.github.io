@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.46d7172b.css",
-    "main.js": "/react-gh-pages/static/js/main.ca34cb5c.js",
-    "static/media/projectThree.jpg": "/react-gh-pages/static/media/projectThree.ef5e4f72b5d97775ca9c.jpg",
-    "static/media/projectOne.jpg": "/react-gh-pages/static/media/projectOne.bbfbe0fedfe3cb3df59d.jpg",
-    "static/media/bannerImg.png": "/react-gh-pages/static/media/bannerImg.36f5057e94fa2a144b04.png",
-    "static/media/logo.png": "/react-gh-pages/static/media/logo.36f5057e94fa2a144b04.png",
-    "static/media/projectTwo.jpg": "/react-gh-pages/static/media/projectTwo.0784dfe4e43c1f039681.jpg",
-    "static/media/contactImg.png": "/react-gh-pages/static/media/contactImg.8ddfbfd11798f881db54.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.46d7172b.css.map": "/react-gh-pages/static/css/main.46d7172b.css.map",
-    "main.ca34cb5c.js.map": "/react-gh-pages/static/js/main.ca34cb5c.js.map"
+    "main.css": "/nagendrachoudhary.github.io/static/css/main.46d7172b.css",
+    "main.js": "/nagendrachoudhary.github.io/static/js/main.33b82810.js",
+    "static/media/projectThree.jpg": "/nagendrachoudhary.github.io/static/media/projectThree.ef5e4f72b5d97775ca9c.jpg",
+    "static/media/projectOne.jpg": "/nagendrachoudhary.github.io/static/media/projectOne.bbfbe0fedfe3cb3df59d.jpg",
+    "static/media/bannerImg.png": "/nagendrachoudhary.github.io/static/media/bannerImg.36f5057e94fa2a144b04.png",
+    "static/media/logo.png": "/nagendrachoudhary.github.io/static/media/logo.36f5057e94fa2a144b04.png",
+    "static/media/projectTwo.jpg": "/nagendrachoudhary.github.io/static/media/projectTwo.0784dfe4e43c1f039681.jpg",
+    "static/media/contactImg.png": "/nagendrachoudhary.github.io/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "index.html": "/nagendrachoudhary.github.io/index.html",
+    "main.46d7172b.css.map": "/nagendrachoudhary.github.io/static/css/main.46d7172b.css.map",
+    "main.33b82810.js.map": "/nagendrachoudhary.github.io/static/js/main.33b82810.js.map"
   },
   "entrypoints": [
     "static/css/main.46d7172b.css",
-    "static/js/main.ca34cb5c.js"
+    "static/js/main.33b82810.js"
   ]
 }
