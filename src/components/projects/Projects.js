@@ -6,7 +6,7 @@ import ProjectsCard from './ProjectsCard';
 const Projects = () => {
   return (
     <section
-      id="projects"
+    id="projects"
       className="w-full py-20 border-b-[1px] border-b-black"
     >
       <div className="project-card">

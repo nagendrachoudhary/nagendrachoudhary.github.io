@@ -8,13 +8,13 @@ import { BsServer } from 'react-icons/bs';
 import { Box, Image, SimpleGrid } from '@chakra-ui/react';
 const Skills = () => {
   return (
-    <section id='skills' className="w-full py-20 border-b-[1px] border-b-black">
+    <section id="skills" className="w-full py-20 border-b-[1px] border-b-black">
       <Title title="" des="Skills" />
       <SimpleGrid display={'flex'} flexWrap={'wrap'} gap={'30px'}>
         <Box>
-          <span style={{ display: 'flex', flexDirection: 'column' }} className="bannerIcon">
-            <AiFillHtml5 />
-            <p>
+          <span class="skills-card-img" style={{ display: 'flex', flexDirection: 'column' }} className="bannerIcon">
+            < AiFillHtml5 />
+            <p class="skills-card-name" >
               HTML5
             </p>
           

@@ -37,7 +37,7 @@ const Contact = () => {
       setSuccessMsg(
         `Thank you dear ${username}, Your Messages has been sent Successfully!`
       );
-      
+
       setErrMsg("");
       setUsername("");
       setPhoneNumber("");

@@ -5,7 +5,7 @@ import Title from '../layouts/Title';
 const Features = () => {
   return (
     <section
-      id="about"
+      id="about" class="about section"
       className="w-full py-20 border-b-[1px] border-b-black"
     >
       <Title title="" des="About me" />

@@ -4,7 +4,7 @@ import { FaGlobe } from "react-icons/fa";
 
 const ProjectsCard = ({ title, des, src,deploy,git,tackstack }) => {
   return (
-    <div className="w-full p-4 xl:px-12 h-auto xl:py-10 rounded-lg shadow-shadowOne flex flex-col bg-gradient-to-r from-bodyColor to-[#202327] group hover:bg-gradient-to-b hover:from-gray-900 hover:gray-900 transition-colors duration-1000">
+    <div class="project-card" className="w-full p-4 xl:px-12 h-auto xl:py-10 rounded-lg shadow-shadowOne flex flex-col bg-gradient-to-r from-bodyColor to-[#202327] group hover:bg-gradient-to-b hover:from-gray-900 hover:gray-900 transition-colors duration-1000">
       <div className="w-full h-[80%] overflow-hidden rounded-lg">
         <img
           className="w-full h-60 object-cover group-hover:scale-110 duration-300 cursor-pointer"
@@ -15,16 +15,16 @@ const ProjectsCard = ({ title, des, src,deploy,git,tackstack }) => {
       <div className="w-full mt-5 flex flex-col  gap-6">
         <div>
           <div className="flex items-center justify-between">
-            <h3 className="text-base uppercase text-designColor font-normal">
+            <h3 className="text-base uppercase text-designColor font-normal" class="project-title">
               {title}
             </h3>
             <div className="flex gap-2">
-               <a href={git} target='_blank'>
-              <span className="text-lg w-10 h-10 rounded-full bg-black inline-flex justify-center items-center text-gray-400 hover:text-designColor duration-300 cursor-pointer">
+               <a class="project-github-link" href={git} target='_blank'>
+              <span  className="text-lg w-10 h-10 rounded-full bg-black inline-flex justify-center items-center text-gray-400 hover:text-designColor duration-300 cursor-pointer">
                 <BsGithub />
               </span>
                </a>
-              <a href={deploy} target='_blank'>
+              <a class="project-deployed-link" href={deploy} target='_blank'>
               <span className="text-lg w-10 h-10 rounded-full bg-black inline-flex justify-center items-center text-gray-400 hover:text-designColor duration-300 cursor-pointer">
                 <FaGlobe />
               </span>
@@ -32,10 +32,10 @@ const ProjectsCard = ({ title, des, src,deploy,git,tackstack }) => {
               
             </div>
           </div>
-          <p className="text-sm tracking-wide mt-3 hover:text-gray-100 duration-300">
+          <p class="project-description" className="text-sm tracking-wide mt-3 hover:text-gray-100 duration-300">
             {des}
           </p>
-          <p>Tackstack:-{tackstack}</p>
+          <p class="project-tech-stack" >Tackstack:-{tackstack}</p>
         </div>
       </div>
     </div>

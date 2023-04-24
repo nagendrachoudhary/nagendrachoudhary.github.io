@@ -17,7 +17,7 @@ const LeftBanner = () => {
       <div className="flex flex-col gap-5">
         <h4 className=" text-lg font-normal">WELCOME TO MY WORLD</h4>
         <h1 className="text-6xl font-bold text-white">
-          Hi, I'm <span id="user-detail-name" className="text-designColor capitalize">Nagendra Choudhary</span>
+          Hi, I'm <span id="user-detail-name"  className="text-designColor capitalize">Nagendra Choudhary</span>
         </h1>
         <h2 className="text-4xl font-bold text-white">
           a <span>{text}</span>
@@ -53,7 +53,7 @@ const LeftBanner = () => {
               <FaPhone />
             </span>
               </a>
-              <a href='mailto:nagendradangi105@gmail.com' id="contact-phone" target='_blank'>
+              <a href='mailto:nagendradangi105@gmail.com' id="contact-email" target='_blank'>
             <span className="bannerIcon"  >
               <MdEmail/>
             </span>
