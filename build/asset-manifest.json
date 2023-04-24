@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nagendrachoudhary.github.io/static/css/main.46d7172b.css",
-    "main.js": "/nagendrachoudhary.github.io/static/js/main.33b82810.js",
+    "main.css": "/nagendrachoudhary.github.io/static/css/main.8882b295.css",
+    "main.js": "/nagendrachoudhary.github.io/static/js/main.132a1f08.js",
     "static/media/projectThree.jpg": "/nagendrachoudhary.github.io/static/media/projectThree.ef5e4f72b5d97775ca9c.jpg",
     "static/media/projectOne.jpg": "/nagendrachoudhary.github.io/static/media/projectOne.bbfbe0fedfe3cb3df59d.jpg",
     "static/media/bannerImg.png": "/nagendrachoudhary.github.io/static/media/bannerImg.36f5057e94fa2a144b04.png",
@@ -9,11 +9,11 @@
     "static/media/projectTwo.jpg": "/nagendrachoudhary.github.io/static/media/projectTwo.0784dfe4e43c1f039681.jpg",
     "static/media/contactImg.png": "/nagendrachoudhary.github.io/static/media/contactImg.8ddfbfd11798f881db54.png",
     "index.html": "/nagendrachoudhary.github.io/index.html",
-    "main.46d7172b.css.map": "/nagendrachoudhary.github.io/static/css/main.46d7172b.css.map",
-    "main.33b82810.js.map": "/nagendrachoudhary.github.io/static/js/main.33b82810.js.map"
+    "main.8882b295.css.map": "/nagendrachoudhary.github.io/static/css/main.8882b295.css.map",
+    "main.132a1f08.js.map": "/nagendrachoudhary.github.io/static/js/main.132a1f08.js.map"
   },
   "entrypoints": [
-    "static/css/main.46d7172b.css",
-    "static/js/main.33b82810.js"
+    "static/css/main.8882b295.css",
+    "static/js/main.132a1f08.js"
   ]
 }
