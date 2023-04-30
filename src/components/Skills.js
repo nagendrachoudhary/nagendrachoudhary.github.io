@@ -10,73 +10,82 @@ const Skills = () => {
   return (
     <section id="skills" className="w-full py-20 border-b-[1px] border-b-black">
       <Title title="" des="Skills" />
-      <SimpleGrid display={'flex'} flexWrap={'wrap'} gap={'30px'}>
-        <Box>
-          <span class="skills-card-img" style={{ display: 'flex', flexDirection: 'column' }} className="bannerIcon">
-            < AiFillHtml5 />
-            <p class="skills-card-name" >
+      <SimpleGrid display={'flex'} className='skills-card' flexWrap={'wrap'} gap={'30px'}>
+        <Box className="skills-card">
+          <span  style={{ display: 'flex', flexDirection: 'column' }} className="bannerIcon">
+            < AiFillHtml5 className='skills-card-img' />
+            <p className="skills-card-name" >
               HTML5
             </p>
           
           </span></Box>
-          <Box>
-          <span style={{ display: 'flex', flexDirection: 'column' }} className="bannerIcon">
-            < FaCss3 />
-            <p>
+          <Box className="skills-card">
+          <span  style={{ display: 'flex', flexDirection: 'column' }} className="bannerIcon">
+            < FaCss3 className='skills-card-img'/>
+            <p className="skills-card-name">
               CSS
             </p>
-          </span></Box><Box>
-          <span style={{ display: 'flex', flexDirection: 'column' }} className="bannerIcon">
-            <TbBrandJavascript />
-            <p>
+          </span></Box>
+          <Box className="skills-card">
+          <span  style={{ display: 'flex', flexDirection: 'column' }} className="bannerIcon">
+            <TbBrandJavascript className='skills-card-img' />
+            <p className="skills-card-name">
               JS
             </p>
-          </span></Box><Box>
-          <span style={{ display: 'flex', flexDirection: 'column' }} className="bannerIcon">
-            <FaReact />
-            <p>
+          </span></Box>
+          <Box className="skills-card">
+          <span  style={{ display: 'flex', flexDirection: 'column' }} className="bannerIcon">
+            <FaReact className='skills-card-img'/>
+            <p className="skills-card-name">
               React
             </p>
-          </span></Box><Box>
-          <span style={{ display: 'flex', flexDirection: 'column' }} className="bannerIcon">
-            <SiRedux />
-            <p>
+          </span></Box>
+          <Box className="skills-card">
+          <span  style={{ display: 'flex', flexDirection: 'column' }} className="bannerIcon">
+            <SiRedux className='skills-card-img'/>
+            <p className="skills-card-name">
               Redux
             </p>
-          </span></Box><Box>
-          <span style={{ display: 'flex', flexDirection: 'column' }} className="bannerIcon">
-            <SiExpress />
-            <p>
+          </span></Box>
+          <Box className="skills-card">
+          <span  style={{ display: 'flex', flexDirection: 'column' }} className="bannerIcon">
+            <SiExpress className='skills-card-img'/>
+            <p className="skills-card-name">
               Express
             </p>
-          </span></Box><Box>
-          <span style={{ display: 'flex', flexDirection: 'column' }} className="bannerIcon">
-            <FaNodeJs />
-            <p>
+          </span></Box>
+          <Box className="skills-card">
+          <span  style={{ display: 'flex', flexDirection: 'column' }} className="bannerIcon">
+            <FaNodeJs className='skills-card-img'/>
+            <p className="skills-card-name">
               Node.js
             </p>
-          </span></Box><Box>
-          <span style={{ display: 'flex', flexDirection: 'column' }} className="bannerIcon">
-            <SiMongodb />
-            <p>
+          </span></Box>
+          <Box className="skills-card">
+          <span  style={{ display: 'flex', flexDirection: 'column' }} className="bannerIcon">
+            <SiMongodb className='skills-card-img'/>
+            <p className="skills-card-name">
               DB
             </p>
-          </span></Box><Box>
-          <span style={{ display: 'flex', flexDirection: 'column' }} className="bannerIcon">
-            <FaBootstrap />
-            <p>
+          </span></Box>
+          <Box className="skills-card">
+          <span  style={{ display: 'flex', flexDirection: 'column' }} className="bannerIcon">
+            <FaBootstrap className='skills-card-img'/>
+            <p className="skills-card-name">
               Bootstrap
             </p>
-          </span></Box><Box>
-          <span style={{ display: 'flex', flexDirection: 'column' }} className="bannerIcon">
-            <SiChakraui />
-            <p>
+          </span></Box>
+          <Box className="skills-card">
+          <span  style={{ display: 'flex', flexDirection: 'column' }} className="bannerIcon">
+            <SiChakraui className='skills-card-img'/>
+            <p className="skills-card-name">
               Chakraui
             </p>
-          </span></Box><Box>
-          <span style={{ display: 'flex', flexDirection: 'column' }} className="bannerIcon">
-            <BsServer />
-            <p>
+          </span></Box>
+          <Box className="skills-card">
+          <span  style={{ display: 'flex', flexDirection: 'column' }} className="bannerIcon">
+            <BsServer className='skills-card-img'/>
+            <p className="skills-card-name">
               Axios
             </p>
           </span></Box>

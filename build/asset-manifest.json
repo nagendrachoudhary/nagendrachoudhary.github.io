@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/nagendrachoudhary.github.io/static/css/main.8882b295.css",
-    "main.js": "/nagendrachoudhary.github.io/static/js/main.132a1f08.js",
-    "static/media/projectThree.jpg": "/nagendrachoudhary.github.io/static/media/projectThree.ef5e4f72b5d97775ca9c.jpg",
-    "static/media/projectOne.jpg": "/nagendrachoudhary.github.io/static/media/projectOne.bbfbe0fedfe3cb3df59d.jpg",
-    "static/media/bannerImg.png": "/nagendrachoudhary.github.io/static/media/bannerImg.36f5057e94fa2a144b04.png",
-    "static/media/logo.png": "/nagendrachoudhary.github.io/static/media/logo.36f5057e94fa2a144b04.png",
-    "static/media/projectTwo.jpg": "/nagendrachoudhary.github.io/static/media/projectTwo.0784dfe4e43c1f039681.jpg",
-    "static/media/contactImg.png": "/nagendrachoudhary.github.io/static/media/contactImg.8ddfbfd11798f881db54.png",
-    "index.html": "/nagendrachoudhary.github.io/index.html",
-    "main.8882b295.css.map": "/nagendrachoudhary.github.io/static/css/main.8882b295.css.map",
-    "main.132a1f08.js.map": "/nagendrachoudhary.github.io/static/js/main.132a1f08.js.map"
+    "main.css": "/static/css/main.88e8c961.css",
+    "main.js": "/static/js/main.69baaf01.js",
+    "static/media/gifimg.gif": "/static/media/gifimg.ca5e6cae604b7e49440b.gif",
+    "static/media/projectThree.jpg": "/static/media/projectThree.ef5e4f72b5d97775ca9c.jpg",
+    "static/media/projectFour.png": "/static/media/projectFour.88630005be3be2410ee9.png",
+    "static/media/projectOne.jpg": "/static/media/projectOne.bbfbe0fedfe3cb3df59d.jpg",
+    "static/media/bannerImg.png": "/static/media/bannerImg.36f5057e94fa2a144b04.png",
+    "static/media/logo.png": "/static/media/logo.36f5057e94fa2a144b04.png",
+    "static/media/projectTwo.jpg": "/static/media/projectTwo.0784dfe4e43c1f039681.jpg",
+    "static/media/contactImg.png": "/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/projectFive.jpg": "/static/media/projectFive.b102e69ec82cd2289401.jpg",
+    "index.html": "/index.html",
+    "main.88e8c961.css.map": "/static/css/main.88e8c961.css.map",
+    "main.69baaf01.js.map": "/static/js/main.69baaf01.js.map"
   },
   "entrypoints": [
-    "static/css/main.8882b295.css",
-    "static/js/main.132a1f08.js"
+    "static/css/main.88e8c961.css",
+    "static/js/main.69baaf01.js"
   ]
 }

@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaFacebookF, FaTwitter, FaLinkedinIn, FaInstagram } from "react-icons/fa";
+import { FaFacebookF, FaTwitter, FaLinkedinIn, FaInstagram, FaGithub } from "react-icons/fa";
 import { contactImg } from "../../assets/index";
 
 const ContactLeft = () => {
@@ -18,10 +18,10 @@ const ContactLeft = () => {
         <p className="text-base text-gray-400 tracking-wide">
           i am a skilled Full Stack Web Developer from Jhunjhunu, Rajasthan with proficiency in the MERN stack,
         </p>
-        <p className="text-base text-gray-400 flex items-center gap-2">
+        <p id="contact-phone" className="text-base text-gray-400 flex items-center gap-2">
           Phone: <span className="text-lightText">+91 7230965443</span>
         </p>
-        <p className="text-base text-gray-400 flex items-center gap-2">
+        <p id="contact-email" className="text-base text-gray-400 flex items-center gap-2">
           Email: <span className="text-lightText">nagendradangi105@gmail.com</span>
         </p>
       </div>
@@ -38,9 +38,14 @@ const ContactLeft = () => {
           <FaTwitter />
         </span>
           </a>
-          <a href='https://www.linkedin.com/in/nagendra-choudhary' target='_blank'>
+          <a id="contact-linkedin" href='https://www.linkedin.com/in/nagendra-choudhary' target='_blank'>
         <span className="bannerIcon">
           <FaLinkedinIn />
+        </span>
+          </a>
+          <a id="contact-github" href='https://www.github.com/nagendrachoudhary' target='_blank'>
+        <span className="bannerIcon">
+          <FaGithub/>
         </span>
           </a>
       </div>

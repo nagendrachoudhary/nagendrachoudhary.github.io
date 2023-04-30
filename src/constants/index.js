@@ -21,18 +21,19 @@ export const navLinksdata = [
     _id: 1003,
     title: "Projects",
     link: "projects",
-   className:"nav-link home",
+   className:"nav-link projects",
   },
   {
     _id: 1004,
     title: "Resume",
     link: "resume",
-   className:"nav-link home",
+    className:"nav-link resume",
+    id:"resume-button-1"
   },
   {
     _id: 1006,
     title: "Contact",
     link: "contact",
-   className:"nav-link home",
+   className:"nav-link contact",
   },
 ];
