@@ -40,7 +40,7 @@ const ProjectsCard = ({ title, des, src,deploy,git,tackstack }) => {
            <span className='project-description'>{des}</span> 
           </p>
           </div>
-          <p class="project-tech-stack" >Tackstack:-{tackstack}</p>
+          <p class="project-tech-stack" >Tech Stack:-{tackstack}</p>
         </div>
       </div>
     </div>
