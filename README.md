@@ -1,4 +1,4 @@
-# Nagendra Choudhary Portfolio
+# [Nagendra Choudhary Portfolio](https://nagendrachoudhary.github.io)
 
 Welcome to my portfolio! This is a showcase of my skills and projects that I have worked on.
 
@@ -25,8 +25,6 @@ This project is a clone of larq.com which is a water bottle selling website.
 
 ## Skills
 
-List your technical skills here. You can categorize them by programming languages, frameworks, tools, etc. You can also include your soft skills, such as communication, teamwork, and problem-solving.
-
 - Programming languages: JavaScript, Java, HTML, CSS, etc.
 - Front-end frameworks: React.
 - Back-end frameworks: Node.js.
@@ -36,12 +34,13 @@ List your technical skills here. You can categorize them by programming language
 
 ## Contact
 
-Provide your contact information here, such as your email address and social media profiles. Encourage potential employers or collaborators to reach out to you.
-
 - Phone: +91 7230965443
 - Email: nagendradangi105@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/nagendra-choudhary/]
 - GitHub: [https://github.com/nagendrachoudhary]
 - Twitter: [https://twitter.com/narenDangi_]
+## Portfolio
+
+Check out my portfolio here: https://nagendrachoudhary.github.io/
 
 Thank you for visiting my portfolio!
