@@ -24,7 +24,7 @@ const Projects = () => {
           des="This project is the clone of bohemaintraders.com which is a clothing and accessories selling website"
           src={projectOne}
           git={'https://github.com/nagendrachoudhary/BohemianTraders'}
-          deploy={'https://fanciful-genie-644b2c.netlify.app/'}
+          deploy={'https://fanciful-genie-644b2c.netlify.app'}
           tackstack={ 'HTML, CSS, Node.js, Express, MongoDB, React, Redux, Chakra UI, and JavaScript'}
           />
         <ProjectsCard

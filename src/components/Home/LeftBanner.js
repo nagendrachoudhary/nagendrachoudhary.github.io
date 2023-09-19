@@ -15,7 +15,7 @@ const LeftBanner = () => {
     });
     const downloadResume = async () => {
       window.open(
-        "./NagendraChoudhary_resume.pdf"
+        "./Nagendra-Choudhary-Resume.pdf"
       );
     };
   return (
@@ -45,7 +45,7 @@ const LeftBanner = () => {
           >
             <a
               id="resume-link-2"
-              href="./NagendraChoudhary_resume.pdf"
+              href="./Nagendra-Choudhary-Resume.pdf"
               download={true}
               target={"_blank"}
               rel="noreferrer"
@@ -70,7 +70,7 @@ const LeftBanner = () => {
               <FaGithub/>
             </span>
               </a>
-              <a href='https://www.linkedin.com/in/nagendra-choudhary/' id="contact-linkedin" target='_blank' >
+              <a href='https://www.linkedin.com/in/nagendrachoudhary/' id="contact-linkedin" target='_blank' >
 
             <span className="bannerIcon" >
               <FaLinkedinIn />

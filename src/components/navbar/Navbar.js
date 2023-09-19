@@ -7,12 +7,11 @@ import { logo } from "../../assets/index"
 import { navLinksdata } from '../../constants';
 import { Avatar } from '@chakra-ui/react';
 import { handleClick } from '../../handleClick';
-
 const Navbar = () => {
   const [showMenu, setShowMenu] = useState(false)
   const downloadResume = async () => {
     window.open(
-      "./NagendraChoudhary_resume.pdf"
+      "./Nagendra-Choudhary-Resume.pdf"
     );
   };
   return (
@@ -106,7 +105,7 @@ const Navbar = () => {
               id="resume-button-1"
             >
               <a
-                href="./NagendraChoudhary_resume.pdf"
+                href="./Nagendra-Choudhary-Resume.pdf"
                 download={true}
                 target={"_blank"}
                 rel="noreferrer"
@@ -208,7 +207,7 @@ const Navbar = () => {
                     duration={500}
                   >
                     <a
-                      href="./NagendraChoudhary_resume.pdf"
+                      href="./Nagendra-Choudhary-Resume.pdf"
                       download={true}
                       target={"_blank"}
                       rel="noreferrer"
