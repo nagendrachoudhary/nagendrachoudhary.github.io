@@ -27,3 +27,8 @@
 .scrollbar-hide::-webkit-scrollbar{
     display: none;
 }
+.skills-card .bannerIcon{
+    width:auto;
+    min-width: 100px;
+    padding: 10px;
+}

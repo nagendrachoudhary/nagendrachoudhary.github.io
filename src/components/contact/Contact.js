@@ -34,6 +34,15 @@ const Contact = () => {
     } else if (message === "") {
       setErrMsg("Message is required!");
     } else {
+      // ========= Sending Message to the server ==================
+      fetch("https://narenchoudhary.onrender.com/sendmessage", {
+        method: "POST",
+        headers:{
+          "Content-Type":"application/json"},
+          body : JSON.stringify({ username , phoneNumber , email , subject , message })
+          }).then((res)=>{
+            console.log(res);
+          })
       setSuccessMsg(
         `Thank you dear ${username}, Your Messages has been sent Successfully!`
       );
@@ -46,6 +55,7 @@ const Contact = () => {
       setMessage("");
     }
   };
+  
   return (
     <section
       id="contact"
